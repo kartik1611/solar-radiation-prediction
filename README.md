@@ -2,7 +2,7 @@
 
 Collaborators:
 Jai Kishore
-Kartik Bapna
+Mohan K Gaddam
 
 This was a team project for my course Statistical Data Mining 1 (Supervised Learning methods).
 
